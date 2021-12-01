@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MedInfo</string>
+    <string name="register"><b><u>Register</u></b></string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/drawable/custom_btn.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/drawable/custom_et.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/drawable/ic_medicine.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/layout/activity_contact.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/layout/activity_dashbard.xml" value="0.25" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/layout/activity_login.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/layout/activity_main.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/layout/activity_medicine.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/layout/activity_profile.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/layout/activity_register.xml" value="0.17" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/layout/adapter_layout.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ajais/AndroidStudioProjects/MedInfo/app/src/main/res/menu/gallery_camera.xml" value="0.221875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
